@@ -4,6 +4,8 @@
 - Email: <a href="mailto:2005941ych@gmail.com">2005941ych@gmail.com</a>
 - Blog: [https://oblsoun.github.io](https://oblsoun.github.io)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **oblsoun/oblsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
