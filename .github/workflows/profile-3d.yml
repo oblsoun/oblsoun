@@ -21,4 +21,5 @@ jobs:
           git config user.email ychyung0615@gmail.com
           git add -A .
           git commit -m "generated"
+          git pull
           git push
