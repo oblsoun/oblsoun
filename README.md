@@ -8,7 +8,7 @@
 
 ##### 🍃 Contributions
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 ##### 👀 Skills
 
