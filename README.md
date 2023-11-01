@@ -49,7 +49,11 @@ Can Use
 
 [Varda](https://github.com/oblsoun/varda) 
 
-- 스킨케어 화장품 구매 사이트 
+- 스킨케어 화장품 구매 사이트
+- 개발 언어: Java
+- Framework: Spring boot
+- DB: MyBatis, MySQL
+- IDE: Eclipse
 
 [Chroma Lens](https://github.com/oblsoun/chromalens) 
 
