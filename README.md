@@ -39,15 +39,25 @@ Can Use
 
 ### 📑 Projects
 
-[SWIF](https://github.com/oblsoun/SWIF) - 스터디 매칭 APP 
+- [SWIF](https://github.com/oblsoun/SWIF)
 
-[Varda](https://github.com/oblsoun/varda) - 스킨케어 화장품 구매 사이트 
+스터디 매칭 APP 
 
-[Chroma Lens](https://github.com/oblsoun/chromalens) - 색약자를 위한 이미지 색채 감지 사이트 
+- [Varda](https://github.com/oblsoun/varda) 
 
-[VOV](https://github.com/oblsoun/VOV) - 개인정보 비식별화 지원 사이트 
+스킨케어 화장품 구매 사이트 
 
-[안전네컷](https://github.com/oblsoun/VOVsnap) - [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트 
+- [Chroma Lens](https://github.com/oblsoun/chromalens) 
+
+색약자를 위한 이미지 색채 감지 사이트 
+
+- [VOV](https://github.com/oblsoun/VOV) 
+
+개인정보 비식별화 지원 사이트 
+
+- [안전네컷](https://github.com/oblsoun/VOVsnap) 
+
+[VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트 
 
 <!--
 **oblsoun/oblsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
