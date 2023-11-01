@@ -39,7 +39,7 @@ Can Use
 
 ### 📑 Projects
 
-[SWIF](https://github.com/oblsoun/SWIF)
+**[SWIF](https://github.com/oblsoun/SWIF)**
 
 - 스터디 매칭 APP
 - 언어: Java
@@ -47,7 +47,7 @@ Can Use
 - IDE: Android Studio
 - [시연 영상](https://youtu.be/STS_tqPen94)
 
-[Varda](https://github.com/oblsoun/varda) 
+**[Varda](https://github.com/oblsoun/varda)** 
 
 - 스킨케어 화장품 구매 사이트
 - 언어: Java
@@ -55,7 +55,7 @@ Can Use
 - DB: MyBatis, MySQL
 - IDE: Eclipse
 
-[Chroma Lens](https://github.com/oblsoun/chromalens) 
+**[Chroma Lens](https://github.com/oblsoun/chromalens)**
 
 - 색약자를 위한 이미지 색채 감지 사이트
 - 언어: Python
@@ -65,7 +65,7 @@ Can Use
 - IDE: Google COLAB, Pycharm
 - [시연 영상](https://youtu.be/LGonUX21H74)
 
-[VOV](https://github.com/oblsoun/VOV) 
+**[VOV](https://github.com/oblsoun/VOV)**
 
 - 개인정보 비식별화 지원 사이트
 - 언어: Python
@@ -77,7 +77,7 @@ Can Use
 - ETC: UML, SonarQube, EC2, S3
 - [시연 영상](https://youtu.be/z_S71TbysyU)
 
-[안전네컷](https://github.com/oblsoun/VOVsnap) 
+**[안전네컷](https://github.com/oblsoun/VOVsnap)** 
 
 - [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트
 - 언어: Python
