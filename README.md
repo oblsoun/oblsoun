@@ -50,7 +50,7 @@ Can Use
 [Varda](https://github.com/oblsoun/varda) 
 
 - 스킨케어 화장품 구매 사이트
-- 개발 언어: Java
+- 언어: Java
 - Framework: Spring boot
 - DB: MyBatis, MySQL
 - IDE: Eclipse
@@ -58,7 +58,7 @@ Can Use
 [Chroma Lens](https://github.com/oblsoun/chromalens) 
 
 - 색약자를 위한 이미지 색채 감지 사이트
-- 개발 언어: Python
+- 언어: Python
 - Dataset: [Roboflow](https://universe.roboflow.com/msa-ciwxj/yoon-2)
 - Model: Yolov8m
 - Framework: Django
@@ -68,7 +68,7 @@ Can Use
 [VOV](https://github.com/oblsoun/VOV) 
 
 - 개인정보 비식별화 지원 사이트
-- 개발 언어: Python
+- 언어: Python
 - Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
 - Model: Yolov5m
 - Framework: Django
@@ -80,7 +80,7 @@ Can Use
 [안전네컷](https://github.com/oblsoun/VOVsnap) 
 
 - [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트
-- 개발 언어: Python
+- 언어: Python
 - Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
 - Model: Yolov5m
 - Framework: Django
