@@ -67,7 +67,15 @@ Can Use
 
 [VOV](https://github.com/oblsoun/VOV) 
 
-- 개인정보 비식별화 지원 사이트 
+- 개인정보 비식별화 지원 사이트
+- 개발 언어: Python
+- Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
+- Model: Yolov5m
+- Framework: Django
+- DB: AWS RDS(mariaDB)
+- IDE: Visual Studio Code
+- ETC: UML, SonarQube, EC2, S3
+- [시연 영상](https://youtu.be/z_S71TbysyU)
 
 [안전네컷](https://github.com/oblsoun/VOVsnap) 
 
