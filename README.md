@@ -57,7 +57,13 @@ Can Use
 
 [Chroma Lens](https://github.com/oblsoun/chromalens) 
 
-- 색약자를 위한 이미지 색채 감지 사이트 
+- 색약자를 위한 이미지 색채 감지 사이트
+- 개발 언어: Python
+- Dataset: [Roboflow](https://universe.roboflow.com/msa-ciwxj/yoon-2)
+- Model: Yolov8m
+- Framework: Django
+- IDE: Google COLAB, Pycharm
+- [시연 영상](https://youtu.be/LGonUX21H74)
 
 [VOV](https://github.com/oblsoun/VOV) 
 
