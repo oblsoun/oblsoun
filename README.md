@@ -79,7 +79,13 @@ Can Use
 
 [안전네컷](https://github.com/oblsoun/VOVsnap) 
 
-- [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트 
+- [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트
+- 개발 언어: Python
+- Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
+- Model: Yolov5m
+- Framework: Django
+- IDE: Visual Studio Code
+- [시연 영상](https://youtu.be/UCxkyX-NQD4)
 
 <!--
 **oblsoun/oblsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
