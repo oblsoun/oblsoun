@@ -41,7 +41,11 @@ Can Use
 
 [SWIF](https://github.com/oblsoun/SWIF)
 
-- 스터디 매칭 APP 
+- 스터디 매칭 APP
+- 언어: Java
+- DB: Firebase
+- IDE: Android Studio
+- [시연 영상](https://youtu.be/STS_tqPen94)
 
 [Varda](https://github.com/oblsoun/varda) 
 
