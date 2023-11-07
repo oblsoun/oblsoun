@@ -38,23 +38,25 @@ Can Use
 
 
 ### 📑 Projects
-**[SWIF](https://github.com/oblsoun/SWIF)**
+**SWIF**
 
 - 스터디 매칭 APP
 - 언어: Java
 - DB: Firebase
 - IDE: Android Studio
 - [시연 영상](https://youtu.be/STS_tqPen94)
+- [Github](https://github.com/oblsoun/SWIF)
 
-**[Varda](https://github.com/oblsoun/varda)**
+**Varda**
 
 - 스킨케어 화장품 구매 사이트
 - 언어: Java
 - Framework: Spring boot
 - DB: MyBatis, MySQL
 - IDE: Eclipse
+- [Github](https://github.com/oblsoun/varda)
 
-**[Chroma Lens](https://github.com/oblsoun/chromalens)**
+**Chroma Lens**
 
 - 색약자를 위한 이미지 색채 감지 사이트
 - 언어: Python
@@ -63,8 +65,9 @@ Can Use
 - Framework: Django
 - IDE: Google COLAB, Pycharm
 - [시연 영상](https://youtu.be/LGonUX21H74)
+- [Github](https://github.com/oblsoun/chromalens)
 
-**[VOV](https://github.com/oblsoun/VOV)**
+**VOV**
 
 - 개인정보 비식별화 지원 사이트
 - 언어: Python
@@ -75,8 +78,9 @@ Can Use
 - IDE: Visual Studio Code
 - ETC: UML, SonarQube, EC2, S3
 - [시연 영상](https://youtu.be/z_S71TbysyU)
+- [Github](https://github.com/oblsoun/VOV)
 
-**[안전네컷](https://github.com/oblsoun/VOVsnap)**
+**안전네컷**
 
 - [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트
 - 언어: Python
@@ -85,6 +89,7 @@ Can Use
 - Framework: Django
 - IDE: Visual Studio Code
 - [시연 영상](https://youtu.be/UCxkyX-NQD4)
+- [Github](https://github.com/oblsoun/VOVsnap)
 
 <!--
 **oblsoun/oblsoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
