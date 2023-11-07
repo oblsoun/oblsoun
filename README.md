@@ -39,7 +39,7 @@ Can Use
 
 ### 📑 Projects
 
-<a href="https://github.com/oblsoun/SWIF" style="text-decoration:none">SWIF</a>
+<a href="https://github.com/oblsoun/SWIF" style="text-decoration-line:none">SWIF</a>
 
 - 스터디 매칭 APP
 - 언어: Java
@@ -47,7 +47,7 @@ Can Use
 - IDE: Android Studio
 - [시연 영상](https://youtu.be/STS_tqPen94)
 
-<a href="https://github.com/oblsoun/varda" style="text-decoration:none">Varda</a>
+<a href="https://github.com/oblsoun/varda" style="text-decoration-line:none">Varda</a>
 
 - 스킨케어 화장품 구매 사이트
 - 언어: Java
@@ -55,7 +55,7 @@ Can Use
 - DB: MyBatis, MySQL
 - IDE: Eclipse
 
-<a href="https://github.com/oblsoun/chromalens" style="text-decoration:none">Chroma Lens</a>
+<a href="https://github.com/oblsoun/chromalens" style="text-decoration-line:none">Chroma Lens</a>
 
 - 색약자를 위한 이미지 색채 감지 사이트
 - 언어: Python
@@ -65,7 +65,7 @@ Can Use
 - IDE: Google COLAB, Pycharm
 - [시연 영상](https://youtu.be/LGonUX21H74)
 
-<a href="https://github.com/oblsoun/VOV" style="text-decoration:none">VOV</a>
+<a href="https://github.com/oblsoun/VOV" style="text-decoration-line:none">VOV</a>
 
 - 개인정보 비식별화 지원 사이트
 - 언어: Python
@@ -77,7 +77,7 @@ Can Use
 - ETC: UML, SonarQube, EC2, S3
 - [시연 영상](https://youtu.be/z_S71TbysyU)
 
-<a href="https://github.com/oblsoun/VOVsnap" style="text-decoration:none">안전네컷</a>
+<a href="https://github.com/oblsoun/VOVsnap" style="text-decoration-line:none">안전네컷</a>
 
 - [VOV 프로젝트](https://github.com/oblsoun/VOV) ‘실시간’ 기능을 활용한 사진 촬영 사이트
 - 언어: Python
