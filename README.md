@@ -10,10 +10,6 @@
 
 - **Email**: <a href="mailto:2005941ych@gmail.com">2005941ych@gmail.com</a>
 
-### 🍃 Contributions
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-
 ### 👀 Skills
 
 Can Use
