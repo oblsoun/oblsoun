@@ -1,7 +1,5 @@
 ### 백엔드 개발자 윤채영입니다 🙌🏻
 
-![](./profile-3d-contrib/profile-season-animate.svg)
-
 ### ✨ Link
 
 - **Github**: [https://github.com/oblsoun](https://github.com/oblsoun)
